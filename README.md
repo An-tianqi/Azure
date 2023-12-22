@@ -7,7 +7,7 @@ Si vous deviez héberger un site Web ou exécuter une application spécifique n�
 Vous pouvez commencer à créer et configurer votre VM sur le lien ci-dessous : https://portal.azure.com/#create/Microsoft.VirtualMachine-ARM
 
 
-image
+![image](https://github.com/An-tianqi/Azure/blob/main/image/vm.png)
 
 
 Par défaut, le paiement sera mensuel, vous pouvez aussi choisir de payer par heures en cochant cette case dans l'onglet De base.
@@ -22,7 +22,7 @@ Un scénario dans lequel votre application génère un grand nombre de fichiers 
 Pour ce faire, accédez au lien ci-dessous https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Stor age%2FStorageAccounts
 
 
-image
+![image](https://github.com/An-tianqi/Azure/blob/main/image/stockage.png)
 
 
 
@@ -44,7 +44,7 @@ https://portal.azure.com/#create/Microsoft.MySQLServer
 Et puis sélectionnez la configuration que vous souhaitez, dans ce cas, j'utilise un serveur flexible
 
 
-image
+![image](https://github.com/An-tianqi/Azure/blob/main/image/databases.png)
 
 
 Implémentez un Azure Functions simple :
@@ -55,7 +55,7 @@ Pour créer une fonction simple, vous pouvez simplement aller dans la barre de r
 
 
 
-image
+![image](https://github.com/An-tianqi/Azure/blob/main/image/app_service.png)
 
 
 
@@ -66,7 +66,7 @@ Supposons que vous disposiez de plusieurs machines virtuelles ou services qui do
 Vous pouvez aller dans cet onglet et choisir d'ouvrir le port de votre application, choisir https http
 
 
-image
+![image](https://github.com/An-tianqi/Azure/blob/main/image/reseau.png)
 
 
 Configurer la surveillance et la journalisation :
@@ -76,17 +76,13 @@ Imaginez avoir besoin d’informations sur les performances et la santé de vos 
 Pour vérifier l'état de votre application afin de vous aider à diagnostiquer les problèmes, vous pouvez simplement utiliser la fonction de surveillance du portail Azure pour les applications Web en direct et choisir votre application.
 
 
-image
-
-
-
 Kubernetes : 
 
 Il pourrait automatise les tâches opérationnelles de gestion des conteneurs, avec des commandes intégrées pour déployer des applications, modifier des applications, faire évoluer les applications en fonction de l'évolution des besoins, surveiller les applications, etc., facilitant ainsi la gestion des applications.
 
 
 
-image
+![image](https://github.com/An-tianqi/Azure/blob/main/image/Kubernetes.png)
 
 
 
@@ -95,6 +91,6 @@ Créez un groupe de ressources personnalisé :
 Imaginez devoir organiser et gérer les ressources Azure associées. Les groupes de ressources dans Azure permettent de regrouper les ressources en fonction du cycle de vie, des autorisations ou d'autres critères.
 
 
-image
+![image](https://github.com/An-tianqi/Azure/blob/main/image/groupe%20ressourse.png)
 
 
